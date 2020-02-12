@@ -27,3 +27,4 @@ Viel Spaß mit Blurry
 -Screen für Erfolg bei Registrierung
 -Tasten unten orientieren sich nicht zentriert
 -Image Upload hat kein Design
+-test
